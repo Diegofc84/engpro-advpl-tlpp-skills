@@ -1,0 +1,8 @@
+{
+  "name": "totvs-engpro",
+  "description": "Skills de ADVPL/TLPP da Engenharia Protheus (TOTVS) e skills genericas de engenharia (superpowers).",
+  "skills": [
+    "./skills/advpl-tlpp",
+    "./skills/superpowers"
+  ]
+}

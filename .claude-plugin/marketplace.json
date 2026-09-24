@@ -1,0 +1,13 @@
+{
+  "name": "totvs-engpro-skills",
+  "owner": {
+    "name": "Fork de totvs/engpro-advpl-tlpp-skills"
+  },
+  "plugins": [
+    {
+      "name": "totvs-engpro",
+      "source": "./",
+      "description": "Skills de ADVPL/TLPP da Engenharia Protheus (TOTVS) e skills genericas de engenharia (superpowers)."
+    }
+  ]
+}
